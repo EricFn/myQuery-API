@@ -18,7 +18,7 @@
         if(selector.charAt( 0 ) === "<" &&
             selector.charAt( selector.length - 1 ) === ">" &&
             selector.length >= 3 ){
-            // TODO 实现创建HTML页面元素的逻辑代码
+            // 实现创建HTML页面元素的逻辑代码
         }
 
         /*
