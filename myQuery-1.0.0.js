@@ -85,7 +85,7 @@
                  * IE浏览器提供解析的属性 - innerText
                  * 其他浏览器提供解析的属性 - textContent
              */
-            if(window.navigator.userAgent.toLowerCase().indexOf('firfox') == -1){
+            if(window.navigator.userAgent.toLowerCase().indexOf('firefox') == -1){
                 for(var i=0;i<this.length;i++){
                     this[i] = this[i].innerText;
                 }
