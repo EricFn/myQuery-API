@@ -70,7 +70,7 @@
     //  封装 text() 方法
     JQUERY.prototype.text = function(text){
         if(text){//  设置
-            if(window.navigator.userAgent.toLowerCase().indexOf('firfox') == -1){
+            if(window.navigator.userAgent.toLowerCase().indexOf('firefox') == -1){
                 for(var i=0;i<this.length;i++){
                     this[i].innerText = text;
                 }
