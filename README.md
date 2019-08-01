@@ -1,2 +1,1 @@
-﻿# 
-Custom and simple Imitative encapsulation for jquery
+﻿# 🚀Custom and simple Imitative encapsulation for jquery
